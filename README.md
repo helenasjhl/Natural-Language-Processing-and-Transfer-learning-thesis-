@@ -11,6 +11,7 @@ A természetes nyelvi feldolgozás (NLP) egyik legfontosabb alkalmazási terüle
 - **sajat\_model.txt** - A saját fejlesztésű modell teljes kódja
 - **szakdolgozat.pdf** - A szakdolgozat, amely bemutatja a modell fejlesztési folyamatát
 - **README.md** - Ez a dokumentum
+- **kódlista_szakdolgozat** - A szakdolgozatomban lévő összes kódot tartalmazza, nem csak a saját modellt
 
 ## 🛠️ **Használt technológiák**
 
